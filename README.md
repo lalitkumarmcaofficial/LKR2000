@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, ANGULAR
 - 💞️ I’m looking to collaborate on FRONT END DEVELOPMENT
-- 📫 How to reach me lalitkumarmca2000@gmail.com
+- 📫 How to reach me lalitkumarmcaofficial@gmail.com
 - 😄 Pronouns: LK
 - ⚡ Fun fact: 😎
 
